@@ -1,0 +1,29 @@
+/* Navbar Turuncu - #fcb914 Siyah - #231f20 */
+
+.navbar-default {
+    background-color: #fcb914;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #231f20;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-brand {
+  color: #231f20;
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #fcb914;
+  background-color: #231f20;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #231f20;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+  color: white;
+  background-color: transparent;
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FC55EB07",
+    "path": "~/ScoutRtemelinko/server/dataserver.R",
+    "project_path": "server/dataserver.R",
+    "type": "r_source",
+    "hash": "615563066",
+    "contents": "",
+    "dirty": false,
+    "created": 1719996218810.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "6,11",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1719775028,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1719775028,
+    "read_only": false,
+    "read_only_alternatives": []
+}
